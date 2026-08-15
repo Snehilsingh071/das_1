@@ -12,3 +12,6 @@ All solved problems organized by pattern/category.
 
 ## Math & Geometry
 - [Nim Game](./LeetCode/Easy/Nim%20Game) - *Easy*
+
+## Bit Manipulation
+- [Longest Subsequence With Non-Zero Bitwise XOR](./LeetCode/Medium/Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR) - *Medium*
