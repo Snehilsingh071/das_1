@@ -9,11 +9,11 @@
 | **Tags** | Hash Table, String, Sliding Window |
 | **Link** | [View Problem](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
 | **Runtime** | 0 ms |
-| **Memory** | 7.8 MB |
+| **Memory** | 7.7 MB |
 
 ## Approach
 
-need to define i for calculating the correct size of the string
+can be done using frequency storing and sliding window in o(n) complexity
 
 
 ## Problem Description
