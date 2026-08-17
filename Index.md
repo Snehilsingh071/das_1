@@ -17,4 +17,5 @@ All solved problems organized by pattern/category.
 - [Longest Subsequence With Non-Zero Bitwise XOR](./LeetCode/Medium/Longest%20Subsequence%20With%20Non-Zero%20Bitwise%20XOR) - *Medium*
 
 ## Two Pointers
+- [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) - *Medium*
 - [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) - *Easy*
