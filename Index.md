@@ -11,6 +11,7 @@ All solved problems organized by pattern/category.
 - [Max Sum Subarray of size K](./GeeksForGeeks/Unknown/Max%20Sum%20Subarray%20of%20size%20K) - *Unknown*
 
 ## Math & Geometry
+- [Construct Uniform Parity Array II](./LeetCode/Medium/Construct%20Uniform%20Parity%20Array%20II) - *Medium*
 - [Nim Game](./LeetCode/Easy/Nim%20Game) - *Easy*
 
 ## Bit Manipulation
