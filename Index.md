@@ -20,3 +20,6 @@ All solved problems organized by pattern/category.
 ## Two Pointers
 - [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) - *Medium*
 - [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) - *Easy*
+
+## prefix sum
+- [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) - *Easy*
