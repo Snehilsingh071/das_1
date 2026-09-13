@@ -4,6 +4,7 @@ All solved problems organized by pattern/category.
 
 
 ## Arrays & Hashing
+- [Image Overlap](./LeetCode/Medium/Image%20Overlap) - *Medium*
 - [Two Sum](./LeetCode/Easy/Two%20Sum) - *Easy*
 
 ## Sliding Window
