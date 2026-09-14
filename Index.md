@@ -23,4 +23,5 @@ All solved problems organized by pattern/category.
 - [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) - *Easy*
 
 ## prefix sum
+- [Find Pivot Index](./LeetCode/Easy/Find%20Pivot%20Index) - *Easy*
 - [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) - *Easy*
