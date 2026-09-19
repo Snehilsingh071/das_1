@@ -12,6 +12,7 @@ All solved problems organized by pattern/category.
 - [Max Sum Subarray of size K](./GeeksForGeeks/Unknown/Max%20Sum%20Subarray%20of%20size%20K) - *Unknown*
 
 ## Math & Geometry
+- [Circle and Rectangle Overlapping](./LeetCode/Medium/Circle%20and%20Rectangle%20Overlapping) - *Medium*
 - [Construct Uniform Parity Array II](./LeetCode/Medium/Construct%20Uniform%20Parity%20Array%20II) - *Medium*
 - [Nim Game](./LeetCode/Easy/Nim%20Game) - *Easy*
 
