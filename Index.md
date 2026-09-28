@@ -29,4 +29,5 @@ All solved problems organized by pattern/category.
 - [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) - *Easy*
 
 ## Uncategorized
+- [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) - *Easy*
 - [Happy Number](./LeetCode/Easy/Happy%20Number) - *Easy*
