@@ -27,3 +27,6 @@ All solved problems organized by pattern/category.
 - [Range Sum Query - Immutable](./LeetCode/Easy/Range%20Sum%20Query%20-%20Immutable) - *Easy*
 - [Find Pivot Index](./LeetCode/Easy/Find%20Pivot%20Index) - *Easy*
 - [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) - *Easy*
+
+## Uncategorized
+- [Happy Number](./LeetCode/Easy/Happy%20Number) - *Easy*
