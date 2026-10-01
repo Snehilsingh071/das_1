@@ -25,6 +25,7 @@ All solved problems organized by pattern/category.
 - [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) - *Easy*
 
 ## prefix sum
+- [Product of Array Except Self](./LeetCode/Medium/Product%20of%20Array%20Except%20Self) - *Medium*
 - [Range Sum Query - Immutable](./LeetCode/Easy/Range%20Sum%20Query%20-%20Immutable) - *Easy*
 - [Find Pivot Index](./LeetCode/Easy/Find%20Pivot%20Index) - *Easy*
 - [Smallest Stable Index I](./LeetCode/Easy/Smallest%20Stable%20Index%20I) - *Easy*
