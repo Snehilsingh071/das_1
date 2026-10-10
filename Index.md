@@ -35,3 +35,6 @@ All solved problems organized by pattern/category.
 - [Bulb Switcher](./LeetCode/Medium/Bulb%20Switcher) - *Medium*
 - [Maximum Nesting Depth of the Parentheses](./LeetCode/Easy/Maximum%20Nesting%20Depth%20of%20the%20Parentheses) - *Easy*
 - [Happy Number](./LeetCode/Easy/Happy%20Number) - *Easy*
+
+## Binary Search
+- [Find Minimum in Rotated Sorted Array II](./LeetCode/Hard/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II) - *Hard*
