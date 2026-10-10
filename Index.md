@@ -8,6 +8,7 @@ All solved problems organized by pattern/category.
 - [Two Sum](./LeetCode/Easy/Two%20Sum) - *Easy*
 
 ## Sliding Window
+- [Minimum Size Subarray Sum](./LeetCode/Medium/Minimum%20Size%20Subarray%20Sum) - *Medium*
 - [Maximum Length Substring With Two Occurrences](./LeetCode/Easy/Maximum%20Length%20Substring%20With%20Two%20Occurrences) - *Easy*
 - [Max Sum Subarray of size K](./GeeksForGeeks/Unknown/Max%20Sum%20Subarray%20of%20size%20K) - *Unknown*
 
