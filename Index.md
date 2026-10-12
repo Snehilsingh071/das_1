@@ -42,3 +42,6 @@ All solved problems organized by pattern/category.
 
 ## Greedy
 - [The kth Factor of n](./LeetCode/Medium/The%20kth%20Factor%20of%20n) - *Medium*
+
+## queue
+- [Implement Queue using Stacks](./LeetCode/Easy/Implement%20Queue%20using%20Stacks) - *Easy*
