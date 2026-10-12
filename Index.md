@@ -39,3 +39,6 @@ All solved problems organized by pattern/category.
 
 ## Binary Search
 - [Find Minimum in Rotated Sorted Array II](./LeetCode/Hard/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II) - *Hard*
+
+## Greedy
+- [The kth Factor of n](./LeetCode/Medium/The%20kth%20Factor%20of%20n) - *Medium*
