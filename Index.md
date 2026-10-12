@@ -45,3 +45,6 @@ All solved problems organized by pattern/category.
 
 ## queue
 - [Implement Queue using Stacks](./LeetCode/Easy/Implement%20Queue%20using%20Stacks) - *Easy*
+
+## Heap / Priority Queue
+- [Top K Frequent Elements](./LeetCode/Medium/Top%20K%20Frequent%20Elements) - *Medium*
