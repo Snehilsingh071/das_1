@@ -48,3 +48,6 @@ All solved problems organized by pattern/category.
 
 ## Heap / Priority Queue
 - [Top K Frequent Elements](./LeetCode/Medium/Top%20K%20Frequent%20Elements) - *Medium*
+
+## Linked List
+- [Delete Node in a Linked List](./LeetCode/Medium/Delete%20Node%20in%20a%20Linked%20List) - *Medium*
