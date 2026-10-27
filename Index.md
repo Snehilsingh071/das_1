@@ -38,6 +38,7 @@ All solved problems organized by pattern/category.
 - [Happy Number](./LeetCode/Easy/Happy%20Number) - *Easy*
 
 ## Binary Search
+- [Find Peak Element](./LeetCode/Medium/Find%20Peak%20Element) - *Medium*
 - [Find Minimum in Rotated Sorted Array II](./LeetCode/Hard/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II) - *Hard*
 
 ## Greedy
