@@ -55,3 +55,6 @@ All solved problems organized by pattern/category.
 
 ## Stack
 - [Daily Temperatures](./LeetCode/Medium/Daily%20Temperatures) - *Medium*
+
+## Trees
+- [Binary Tree Inorder Traversal](./LeetCode/Easy/Binary%20Tree%20Inorder%20Traversal) - *Easy*
